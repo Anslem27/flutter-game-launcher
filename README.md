@@ -1,10 +1,14 @@
-# game_launcher
+# flutter game launcher
 
-A new Flutter project.
+template flutter project thats a starter on how to implement a game launcher with flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+#### core functionality.
+
+```
+/lib/screens/home_screen.dart
+```
 
 A few resources to get you started if this is your first Flutter project:
 
